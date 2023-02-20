@@ -1,7 +1,7 @@
 {
   "name": "com.rmc.rmc-readme-authoring",
   "displayName": "RMC ReadMe Authoring",
-  "version": "1.0.5",
+  "version": "1.1.15",
   "unity": "2021.3",
   "description": "ReadMe authoring library for Unity Development by Rivello Multimedia Consulting",
   "keywords": [
