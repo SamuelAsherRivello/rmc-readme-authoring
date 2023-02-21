@@ -1,3 +1,6 @@
+[![npm package](https://img.shields.io/npm/v/com.rmc.rmc-readme-authoring)](https://www.npmjs.com/package/com.rmc.rmc-readme-authoring)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 # RMC ReadMe Authoring
 
 The authoring library for the https://github.com/SamuelAsherRivello/rmc-readme
