@@ -3,7 +3,9 @@
 
 # RMC ReadMe Authoring
 
-The authoring library for the https://github.com/SamuelAsherRivello/rmc-readme
+The readme library for Unity for AUTHORING the runtime experience.
+
+This depends on, and automatically loads the RUNTIME package at https://github.com/SamuelAsherRivello/rmc-readme.
 
 
 # Table Of Contents
