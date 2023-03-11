@@ -71,8 +71,8 @@ Or to edit the `Packages/manifest.json` directly with your favorite text editor,
 ```json
 {
   "dependencies": {
-      "com.rmc.rmc-readme-authoring": "https://github.com/SamuelAsherRivello/rmc-readme-authoring",
-      "com.rmc.rmc-readme": "https://github.com/SamuelAsherRivello/rmc-readme"
+      "com.rmc.rmc-readme-authoring": "https://github.com/SamuelAsherRivello/rmc-readme-authoring.git",
+      "com.rmc.rmc-readme": "https://github.com/SamuelAsherRivello/rmc-readme.git"
   }
 }
 ```
