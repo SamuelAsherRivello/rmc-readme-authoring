@@ -49,8 +49,8 @@ Or to edit the `Packages/manifest.json` directly with your favorite text editor,
     }
   ],
   "dependencies": {
-    "com.com.rmc.rmc-readme-authoring": "1.1.8",
-    "com.com.rmc.rmc-readme": "1.2.0"
+    "com.rmc.rmc-readme-authoring": "1.1.9",
+    "com.rmc.rmc-readme": "1.2.1"
   }
 }
 ```
