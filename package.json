@@ -13,7 +13,7 @@
 	"utility"
   ],
   "dependencies": {
-	"com.rmc.rmc-readme": "1.2.0"
+	"com.rmc.rmc-readme": "1.2.1"
   },
   "homepage": "https://github.com/rmc/rmc-readme-authoring.git",
   "bugs": {
