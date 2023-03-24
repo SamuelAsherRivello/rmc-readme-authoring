@@ -15,13 +15,13 @@
   "dependencies": {
 	"com.rmc.rmc-readme": "1.2.1"
   },
-  "homepage": "https://github.com/rmc/rmc-readme-authoring.git",
+  "homepage": "https://github.com/SamuelAsherRivello/rmc-readme-authoring.git",
   "bugs": {
-	"url": "https://github.com/rmc/rmc-readme-authoring/issues"
+	"url": "https://github.com/SamuelAsherRivello/rmc-readme-authoring/issues"
   },
   "repository": {
 	"type": "git",
-	"url": "git+ssh://git@github.com/rmc/rmc-readme-authoring.git"
+	"url": "git+ssh://git@github.com/SamuelAsherRivello/rmc-readme-authoring.git"
   },
   "license": "MIT",
   "author": "RMC (github.com/SamuelAsherRivello)",
