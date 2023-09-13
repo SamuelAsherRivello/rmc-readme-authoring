@@ -22,7 +22,11 @@ This is a custom library to **author** a custom ReadMe for the Unity Inspector W
 
 If you only want to **display** a custom ReadMe, see the https://github.com/SamuelAsherRivello/rmc-readme-authoring.
 
+## Example Image
 
+Here is the Unity editor with the RMC ReadMe displayed in the Inspector Window.
+
+<img width = "400" src="https://raw.githubusercontent.com/SamuelAsherRivello/rmc-readme-authoring/main/ReadMe Authoring/Documentation/Images/Screenshot.png">
 ## Install
 
 ### Via NPM
